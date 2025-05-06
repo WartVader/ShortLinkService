@@ -1,0 +1,3 @@
+<div>
+    Inactive route
+</div>
